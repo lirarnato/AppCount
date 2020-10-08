@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AppCount</string>
+
+    <!--    Strings da tela principal-->
+    <string name="title_informa_es_de_consumo_sobre_gua">Clique no medidor instalado em sua residência para realizar
+        o cálculo de consumo, dúvidas acesso o menu de ajuda no canto superior esquerdo.</string>
+
+
+    <!--    Strings da tela de calculo-->
+    <string name="title_activity_calculo_m">CalculoMActivity</string>
+    <string name="bt_calcular">Calcular</string>
+
+
+    <!--    Menu Drawer-->
+    <string name="menu_drawer_gd_energia">Geração e Distribuição.</string>
+    <string name="menu_drawer_cd_agua">Captação e Distribuição.</string>
+    <string name="menu_drawer_cobranca_ae">Cobrança de Consumo.</string>
+    <string name="menu_drawer_l_medicao">Realização da leitura.</string>
+    <string name="menu_drawer_dc_ag">Dicas de Economia.</string>
+    <string name="toggle_open">Open</string>
+    <string name="toggle_close">Close</string>
+
+</resources>
